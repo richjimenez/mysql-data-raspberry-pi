@@ -1,2 +1,30 @@
 # mysql-data-raspberry-pi
-Save sensor data from Raspberry Pi to MySQL database
+This is a simple project that explains how you can use a Raspberry Pi collect sensor data and save this data to a MySQL database.
+
+### Learning Objectives:
+
+<b>Lesson 1: Configure Raspberry Pi to Collect Data from Temperature Sensor</b>
+<ol>
+<li>Create IoT device that collects temperature and humidity data from sensor</li>
+<li>Learn how to wire DHT temperature sensors to GPIO on Raspberry Pi</li>
+<li>Write Python code to interact with DHT sensor</li>
+</ol>
+
+<b>Lesson 2: Setup Jupyter Notebook for Data Analysis</b>
+<ol>
+    <li>Create Python tools for data analysis using Jupyter Notebooks</li>
+    <li>Learn how to access data from MySQL databases for data analysis</li>
+    
+</ol>
+
+<b> Lesson 3: Create MySQL Database Table for Sensor Data</b>
+<ol>
+    <li>Learn how to access MySQL from Jupyter Notebook to create tables and uses</li>
+    <li>Prepare location to store data collected from IoT devices</li>    
+</ol>
+
+<b>Lesson 4: Save Raspberry Pi Sensor Data to MySQL Database</b>
+<ol>
+    <li>Model how IoT device can save sensor data to back end database server for later analyis</li>
+    <li>Learn how to access data from MySQL databases from a Raspberry Pi Python program</li>  
+</ol>

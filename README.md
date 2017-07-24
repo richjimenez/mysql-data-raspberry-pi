@@ -26,6 +26,6 @@ Also shows you how you can access data from a MySQL database in Jupyter Notebook
 <br>
 <b>Lesson 4: Save Raspberry Pi Sensor Data to MySQL Database</b>
 <ol>
-    <li>Model how IoT device can save sensor data to back end database server for later analyis</li>
+    <li>Model how IoT device can save sensor data to back end database server for later analysis</li>
     <li>Learn how to access data from MySQL databases from a Raspberry Pi Python program</li>  
 </ol>

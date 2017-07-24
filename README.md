@@ -15,8 +15,7 @@ Also shows you how you can access data from a MySQL database in Jupyter Notebook
 <b>Lesson 2: Setup Jupyter Notebook for Data Analysis</b>
 <ol>
     <li>Create Python tools for data analysis using Jupyter Notebooks</li>
-    <li>Learn how to access data from MySQL databases for data analysis</li>
-    
+    <li>Learn how to access data from MySQL databases for data analysis</li>    
 </ol>
 <br>
 <b> Lesson 3: Create MySQL Database Table for Sensor Data</b>

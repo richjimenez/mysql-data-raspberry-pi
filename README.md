@@ -1,5 +1,5 @@
 # mysql-data-raspberry-pi
-This is a simple project that explains how you can use a Raspberry Pi collect sensor data and save this data to a MySQL database.
+This is a simple project that explains how you can use a Raspberry Pi collect sensor data and save this data to a MySQL database. Also shows you how you can access data from a MySQL database in Jupyter Notebook.
 
 ### Learning Objectives:
 
